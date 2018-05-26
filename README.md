@@ -1,6 +1,6 @@
 # 猎头十年
 
-很早就开始计划写《猎头十年》
+很早就开始计划写[《猎头十年》](https://lietoumai.gitbook.io/book/)
 
 掐指一算
 
@@ -11,6 +11,3 @@
 所以想趁着还没彻底忘记之前的事儿
 
 先动笔写起来吧
-
-[链接](https://lietoumai.gitbook.io/book/)
-
